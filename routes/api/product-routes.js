@@ -59,8 +59,7 @@ router.get('/:id', async (req, res) => {
   
 
 // Post router to create new product
-router.post('/', (req, res) => {
-  try {
+router.post('/', async (req, res) => {
     const productData = await Product.create({
         product_name: req.body.product_name,
         price: req.body.price,
