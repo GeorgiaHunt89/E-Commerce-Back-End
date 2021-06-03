@@ -32,7 +32,7 @@ Georgia Hunt
 
 ## Application Walkthrough Video
 Walkthrough video demonstrating how to create the schema from the [MySQL shell and seed database](https://www.loom.com/share/867a6817fb3b4156a8860a0b036c88b3)<br>
-Walkthrough video demonstrating GET, POST, PUT & DELETE routes for [Categories] \(https://www.loom.com/share/fc89cbd2be984e85aec9f9102ab1fc14)<br>
+Walkthrough video demonstrating GET, POST, PUT & DELETE routes for [Categories] (https://www.loom.com/share/fc89cbd2be984e85aec9f9102ab1fc14)<br>
 Walkthrough video demonstrating GET, POST, PUT & DELETE routes for [Products](https://www.loom.com/share/efbf10d925a7437d9dfd245291772640)<br>
 Walkthrough video demonstrating GET, POST, PUT & DELETE routes for [Tags](https://www.loom.com/share/36a5d8cb8d494a9f9f7b1e8fa4d04762)<br>
 
